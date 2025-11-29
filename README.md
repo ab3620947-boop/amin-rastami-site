@@ -1,4 +1,4 @@
-[amin.html](https://github.com/user-attachments/files/23833634/amin.html)
+
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
