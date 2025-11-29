@@ -209,7 +209,7 @@
         <a class="cta" href="https://t.me/ajabros" target="_blank" rel="noopener">مشاوره & سفارش — @ajabros</a>
 
         <div style="margin-top:12px;color:#444">
-          <strong>چند خط جذاب دربارهٔ من (قابل ویرایش):</strong>
+          <strong>چند خط جذاب دربارهٔ من ):</strong>
           <p style="margin:8px 0 0;line-height:1.6">
             من پروژه‌ها را با چاشنی خلاقیت و سرعت تحویل می‌دهم. از تمیز نوشتن کد و بهینه‌سازی برای موبایل لذت می‌برم. اگر دنبال کسی هستید که هم ظاهر سایت را زیبا کند و هم عملکردش روان باشد — من انتخاب خوبی‌ام. برای نمونه‌کارها و قیمت‌ها پایین صفحه را ببینید.
           </p>
@@ -239,14 +239,14 @@
 
     <!-- نمونه‌کارها -->
     <section class="card samples">
-      <h3 style="margin-top:0">نمونه‌کارها (نمونه‌های فرضی — جای توضیحات و لینک بذار)</h3>
+      <h3 style="margin-top:0">نمونه‌کارها ()</h3>
       <div class="sample-grid">
         <div class="sample">فروشگاه نمونه — HTML/CSS</div>
         <div class="sample">سایت شرکتی — ریسپانسیو</div>
         <div class="sample">صفحه فرود تیزر — با انیمیشن</div>
         <div class="sample">دموی دوبلاژ — فایل صوتی (لینک)</div>
       </div>
-      <p style="margin-top:10px;color:#444">جاهای خالی بالا برای لینک‌ها و توضیحات نمونه‌کارها هستند — وارد کن تا کارفرما راحت نمونه‌ها را ببینه.</p>
+      <p style="margin-top:10px;color:#444"></p>
     </section>
 
     <!-- خدمات -->
